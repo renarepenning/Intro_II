@@ -1,0 +1,18 @@
+//User Manual For Voting Machine
+Rena Repenning
+
+To reach Voting Machine program, input "cd Desktop/VotingMachine/Source_Code/"
+	into your command line in the Terminal Application 
+	WARNING: (this strategy works on MacOS only)
+
+To start voting machine: Please run PerfectCandidate class (type $ java PerfectCandidate.java)
+
+- After running PerfectCandidate class, type electionResults.txt and select GO
+- Click on desired competitor, and cast your vote
+	- Have each Voter repeat this step
+- When voting is finished, close the window
+- Give the program the output file's path
+- Find results of election in the Voting Machine Folder on your computer
+	- Results will be formatted, and display the winner of the election
+
+
