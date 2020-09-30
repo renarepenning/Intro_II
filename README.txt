@@ -17,5 +17,3 @@ Years with debt (int)
 Years of renting (int)
 Debt that has been paid off
 nameForOutPutFile.txt
-
-
